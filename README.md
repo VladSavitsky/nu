@@ -6,9 +6,14 @@ Chrome browser extension created to deface site naurok.com.ua
 
 ### Get code
 
+1. Open terminal (Ctrl+Alt+t).
+2. Run command:
 ```
 git clone git@github.com:VladSavitsky/nu.git ~/projects/nu
+cd ~/projects/nu;
+ls -la;
 ```
+3. Review code.
 
 ### Add to browser
 
