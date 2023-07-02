@@ -14,7 +14,8 @@ git clone git@github.com:VladSavitsky/nu.git ~/projects/nu
 
 1. Open Chrome browser.
 2. Type 'chrome://extensions' in address bar
-3. Click 'Load unpacked' button
+3. Click 'Developer Mode' checkbox at the top left corner.
+3. Click 'Load unpacked' button (right top corner).
 4. Specify path to folder with this extension. Eg., ~/projects/nu.
 
 
