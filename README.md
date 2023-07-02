@@ -24,7 +24,7 @@ git clone git@github.com:VladSavitsky/nu.git ~/projects/nu
 
 4. Open 'chrome://extensions' in browser.
 5. Click reload-button at 'Deface Naurok' extension.
-6. Open [https://naurok.com.ua] site or any subpage.
+6. Open https://naurok.com.ua site or any subpage.
 7. Refresh page (Ctrl+r, F5).
 
 
@@ -33,7 +33,7 @@ git clone git@github.com:VladSavitsky/nu.git ~/projects/nu
 1. Open ~/projects/nu/css/styles.css
 2. Add/Update CSS rules.
 3. Save changes.
-4. [Reload extension](#Reload extension)
+4. [Reload extension](#reload-extension)
 
 Read more:
 * https://w3schoolsua.github.io/css/index.html
@@ -44,7 +44,7 @@ Read more:
 1. Open ~/projects/nu/js/content.js
 2. Add/Update Javascript code.
 3. Save changes.
-4. [Reload extension](#Reload extension)
+4. [Reload extension](#reload-extension)
 
 Read more:
 * https://w3schoolsua.github.io/js/index.html
