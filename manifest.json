@@ -3,7 +3,7 @@
     "all_frames": true,
     "css": [ "css/styles.css" ],
     "js": [ "js/jquery-3.7.0.min.js", "js/content.js" ],
-    "matches": [ "https://www.naurok.com.ua/*" ]
+    "matches": [ "https://naurok.com.ua/*" ]
   }],
   "description": "Deface of naurok",
   "icons": {
