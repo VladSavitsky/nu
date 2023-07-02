@@ -1,0 +1,22 @@
+{
+  "content_scripts": [ {
+    "all_frames": true,
+    "css": [ "css/styles.css" ],
+    "js": [ "js/jquery-3.7.0.min.js", "js/content.js" ],
+    "matches": [ "https://www.naurok.com.ua/*" ]
+  }],
+  "description": "Deface of naurok",
+  "icons": {
+    "128": "icons/icon_128.png",
+    "48": "icons/icon_48.png",
+    "32": "icons/icon_32.png",
+    "16": "icons/icon_16.png"
+   },
+  "manifest_version": 3,
+  "name": "Deface Naurok",
+  "permissions": [
+    "activeTab"
+  ],
+  "short_name": "Deface Naurok",
+  "version": "1.0"
+}
