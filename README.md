@@ -54,3 +54,25 @@ Read more:
 
 Read more:
 * https://w3schoolsua.github.io/js/index.html
+
+
+
+## CSS
+
+* CSS class. Starts from dot. For example: '.homepage'.
+* CSS Id. Starts with '#'. For example: '#mainpage'.
+* Rule:
+```
+#homepage {
+  color: red;
+  border: 1px solid blue !important;
+}
+```
+* CSS Rule weight:
+  * https://canonium.com/articles/css-understanding-weight-selectors/
+  * https://habr.com/ru/articles/137588/
+  * https://htmlacademy.ru/blog/css/which-selector
+  * https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+  * https://www.digitalocean.com/community/tutorials/css-understanding-specificity-in-css
+
+
